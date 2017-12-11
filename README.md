@@ -9,4 +9,5 @@ It is a project for Internet Software Architecture course at Faculty of Technica
 * [Java Servlets](https://en.wikipedia.org/wiki/Java_servlet)
 * [JSP](https://en.wikipedia.org/wiki/JavaServer_Pages) for client-side
 * [MySQL](https://www.mysql.com/) for database
+* [Apache Tomee plus 1.5.0](http://tomee.apache.org/) for Server
 
