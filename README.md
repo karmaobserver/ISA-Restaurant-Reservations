@@ -1,5 +1,5 @@
-# ISA-Resturant-Reservations
-This is a web application which represents an online returant reservations. 
+# ISA-Restaurant-Reservations
+This is a web application which enables online restaurant reservations. 
 Emphasis is put on EJB 3.0 with Servlets following MVC architecture pattern. 
 It is a project for Internet Software Architecture course at Faculty of Technical Sciences, University of Novi Sad.
 
